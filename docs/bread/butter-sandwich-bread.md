@@ -2,28 +2,25 @@
 
 A nice white bread base with oatmeal for some texture.
 
-
-| Overview ||
-|:---|:---|
-|Source| Chad |
-|Source Url| |
-|Prep Time| 4 hours |
-|Cook Time| 45 minutes |
-|Servings| 2 loaves |
-
+| Overview   |            |
+| :--------- | :--------- |
+| Source     | Chad       |
+| Source Url |            |
+| Prep Time  | 4 hours    |
+| Cook Time  | 45 minutes |
+| Servings   | 2 loaves   |
 
 ## Ingredients
 
-| Qty | Units | Name |
-|---:|:---|:---|
-| 1020 | grams | Unbleached Bread Flour |
-| 170 | grams | Rolled Oats |
-| 710 | grams | Warm Water (~110 degrees) |
-| 1.5 | tbsp | Kosher Salt |
-| 1.5 | tbsp | Brown Sugar |
-| 1.5 | tbsp | Instant Yeast |
-| 4 | tbsp | Salted Butter |
-
+|  Qty | Units | Name                      |
+| ---: | :---- | :------------------------ |
+| 1020 | grams | Unbleached Bread Flour    |
+|  170 | grams | Rolled Oats               |
+|  710 | grams | Warm Water (~110 degrees) |
+|  1.5 | tbsp  | Kosher Salt               |
+|  1.5 | tbsp  | Brown Sugar               |
+|  1.5 | tbsp  | Instant Yeast             |
+|    4 | tbsp  | Salted Butter             |
 
 ## Equipment
 

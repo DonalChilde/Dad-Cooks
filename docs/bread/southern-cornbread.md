@@ -1,40 +1,36 @@
 # Southern Cornbread
 
-Cornbread as it was ment to be.
+Cornbread as it was meant to be.
 
-
-| Overview ||
-|:---|:---|
-|Source| |
-|Source Url| |
-|Prep Time| 10 |
-|Cook Time| 27 |
-|Servings| 8 |
-
+| Overview   |     |
+| :--------- | :-- |
+| Source     |     |
+| Source Url |     |
+| Prep Time  | 10  |
+| Cook Time  | 27  |
+| Servings   | 8   |
 
 ## Ingredients
 
-| Qty | Units | Name |
-|---:|:---|:---|
-| 2 | cups | Yellow Cornmeal |
-| 2 | tsp | Sugar|
-| 2 | tsp | Baking Powder |
-| 1/2 | tsp | Salt |
-| 1/2 | tsp | Baking Soda |
-| 2/3 | cup | Boiling Water |
-| 1 | cup | Whole Milk |
-| 1/2 | cup | Greek Yogurt |
-| 2 | Large | Eggs |
-| 1 | stick | Salted Butter |
-| 1 | tbsp | Bacon Grease |
-
+| Qty | Units | Name            |
+| --: | :---- | :-------------- |
+|   2 | cups  | Yellow Cornmeal |
+|   2 | tsp   | Sugar           |
+|   2 | tsp   | Baking Powder   |
+| 1/2 | tsp   | Salt            |
+| 1/2 | tsp   | Baking Soda     |
+| 2/3 | cup   | Boiling Water   |
+|   1 | cup   | Whole Milk      |
+| 1/2 | cup   | Greek Yogurt    |
+|   2 | Large | Eggs            |
+|   1 | stick | Salted Butter   |
+|   1 | tbsp  | Bacon Grease    |
 
 ## Equipment
 
 A well cured cast iron skillet. At least 8-9 inches. Wider makes a thinner cornbread.
 
 You could also use a cast iron griddle to make cornbread pancakes.
-
 
 ## Cooking
 
