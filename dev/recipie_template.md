@@ -2,22 +2,19 @@
 
 A_general_description
 
-
-| Overview ||
-|:---|:---|
-|Source| |
-|Source Url| |
-|Prep Time| |
-|Cook Time| |
-|Servings| |
-
+| Overview   |     |
+| :--------- | :-- |
+| Source     |     |
+| Source Url |     |
+| Prep Time  |     |
+| Cook Time  |     |
+| Servings   |     |
 
 ## Ingredients
 
-| Qty | Units | Name |
-|---:|:---|:---|
-| 1 | tbs | Tasty_Food |
-
+| Qty | Units | Name       |
+| --: | :---- | :--------- |
+|   1 | tbs   | Tasty_Food |
 
 ## Equipment
 
