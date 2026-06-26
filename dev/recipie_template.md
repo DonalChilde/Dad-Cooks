@@ -14,7 +14,7 @@ A_general_description
 
 | Qty | Units | Name       |
 | --: | :---- | :--------- |
-|   1 | tbs   | Tasty_Food |
+|   1 | tbsp  | Tasty_Food |
 
 ## Equipment
 
