@@ -1,7 +1,5 @@
 # Ground Turkey Stroganoff
 
-A_general_description
-
 | Overview   |               |
 | :--------- | :------------ |
 | Source     | Betty Crocker |
@@ -24,7 +22,7 @@ A_general_description
 |   1/4 | tsp    | Pepper                |
 |   1/4 | cup    | All Purpose Flour     |
 |     1 | cup    | Sour Cream            |
-|     6 | cups   | Cooked Egg Noodles    |
+|     4 | cups   | Cooked Egg Noodles    |
 
 ## Cooking
 
@@ -41,4 +39,4 @@ A_general_description
 
 ## Notes
 
-Substitute rice for noodles. Use with or without sour cream.
+- The meat is tasty with or without the sour cream.
