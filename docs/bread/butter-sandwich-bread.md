@@ -31,16 +31,24 @@ A nice white bread base with oatmeal for some texture.
 ## Preparation
 
 1. Place dry ingredients into large bowl, mix well.
-2. Pour warm water into bowl, while mixing evenly. Dough should end up as a slightly wet ball. Do not Kneed.
+2. Pour warm water into bowl, while mixing evenly. Dough should end up as a slightly wet
+   ball. Do not Kneed.
 3. Lightly grease a large bowl with butter.
-4. Place dough in bowl and cover - allow to rise. Dough should double in size, about 1-2 hours. You can use greased wax paper and a dish towel to cover bowl. Bowl should be placed in a warm spot. e.g. A sunny spot by the window. If its cold in the house, you can place the bowl on top of a heating pad.
+4. Place dough in bowl and cover - allow to rise. Dough should double in size, about 1-2
+   hours. You can use greased wax paper and a dish towel to cover bowl. Bowl should be
+   placed in a warm spot. e.g. A sunny spot by the window. If its cold in the house, you
+   can place the bowl on top of a heating pad.
 5. Lightly coat two bread pans with butter.
 6. Divide dough into 2 evenly sized balls.
-7. Dust a cutting board with flour, and work the dough - Flattening and folding at least ten times.
-8. Shape dough into a loaf, tucking the folds underneath, and place in greased pan. Try to make the loaf evenly shaped.
-9. Lightly bush top of dough with butter. Score top of loaf if desired. Both of these steps aid rising.
+7. Dust a cutting board with flour, and work the dough - Flattening and folding at least
+   ten times.
+8. Shape dough into a loaf, tucking the folds underneath, and place in greased pan. Try
+   to make the loaf evenly shaped.
+9. Lightly bush top of dough with butter. Score top of loaf if desired. Both of these
+   steps aid rising.
 10. Repeat
-11. Cover pans with greased wax paper and a dish towel. Allow to rise until dough crowns over the top of the pan, about 2 hours.
+11. Cover pans with greased wax paper and a dish towel. Allow to rise until dough crowns
+    over the top of the pan, about 2 hours.
 12. Turn out bread on a cooling rack. Allow bread to cool before cutting.
 
 ## Cooking
