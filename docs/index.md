@@ -1,3 +1,3 @@
-# Recipies
+# Recipes
 
-Food I have cooked..
+Food I have cooked.
