@@ -1,6 +1,6 @@
-# Recipe_Template
+# Mashed Potatos
 
-A_general_description
+Easy Mashed Potatos
 
 ### Overview
 
